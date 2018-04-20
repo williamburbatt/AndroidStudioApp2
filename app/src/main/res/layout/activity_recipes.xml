@@ -33,6 +33,7 @@
         android:layout_height="wrap_content"
         android:text="View Recipe"
         android:textSize="30sp"
+        android:onClick="onClick"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
